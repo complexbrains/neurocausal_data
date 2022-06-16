@@ -5,6 +5,8 @@ We will also share the OSF link to the downloaded open access clinical papers th
 
 The dataset will be periodically updated as the new bunch of data added and new features are extended to the tool.
 
+
+
 The current data resides in [NeuroCausal OSF Repository](https://osf.io/hjsm2/) for a specific queries (_aphasia + neurodegeneration_ and _aphasia + fMRI_ ) we run with [NeuroQuery pipeline](https://github.com/neuroquery/nqdc). 
 
 
@@ -53,5 +55,3 @@ query-aphasia_neurodegenerative.zip
 - `coordinates.csv` contains one row for each `(x, y, z)` stereotactic
   coordinate found in any article. Its fields are the `pmcid` of the article,
   the table label and id the coordinates came from, and `x`, `y`, `z`.
-
-
