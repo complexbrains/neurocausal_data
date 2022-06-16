@@ -1,56 +1,61 @@
-abulia
-agnosia
-agraphia
-alexia
-amnesia
-aneurisym
-anosognosia
-aphasia
-apraxia
-atrophy
-autopsy
-bedside
-biopsy
-brain damage
-chorea
-clinical
-cohort
-craniotomy
-dementia
-diagnosis
-disorders
-dysarthria
-dysphasia
-dystonia
-encephalitis
-epilepsy
-glioblastoma
-glioma
-hemangioma
-hematoma
-hemiplegia
-hemorrhage
-hydrocephalus
-ictus
-ischemia
-language disorder
-lesion
-meningitis
-neglect
-neurodegeneration
-neurological
-neurology
-neuropsychological
-neuropsychology
-patient
-post-mortem
-post-stroke aphasia
-psycholinguistic
-speech disorder
-speech language pathology
-stroke
-symptom
-symptom mapping
-syndrome
-tumor
-vascular
+Raw Version,Lemma Version
+abulia,abulia
+agnosia,agnosia
+agraphia,agraphia
+alexia,alexia
+amnesia,amnesia
+aneurisym,aneurisym
+anosognosia,anosognosia
+aphasia,aphasia
+apraxia,apraxia
+atrophy,atrophy
+autopsy,autopsy
+bedside,bedside
+biopsy,biopsy
+brain damage,damage
+chorea,deficit
+clinical,chorea
+cohort,clinical
+craniotomy,cohort
+dementia,craniotomy
+diagnosis,dementia
+disorders,diagnosis
+dysarthria,disorder
+dysphasia,dysarthria
+dystonia,dysphasia
+encephalitis,dystonia
+epilepsy,encephalitis
+glioblastoma,epilepsy
+glioma,glioblastoma
+hemangioma,glioma
+hematoma,hemangioma
+hemiplegia,hematoma
+hemorrhage,hemiplegia
+hydrocephalus,hemorrhage
+ictus,hydrocephalus
+ischemia,ictus
+language disorder,ischemia
+lesion,impairment
+meningitis,injury
+neglect,lesion
+neurodegeneration,meningitis
+neurological,neglect
+neurology,neurodegeneration
+neuropsychological,neurological
+neuropsychology,neurology
+patient,neuropsychological
+post-mortem,neuropsychology
+post-stroke aphasia,patient
+psycholinguistic,postmortem
+speech disorder,induced
+speech language pathology,psycholinguistic
+stroke,speech
+symptom,pathology
+symptom mapping,stroke
+syndrome,suffer
+tumor,symptom
+vascular,mapping
+,syndrome
+,traumatic
+,tumor
+,vascular
